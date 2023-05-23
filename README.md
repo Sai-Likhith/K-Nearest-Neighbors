@@ -11,7 +11,7 @@ Theory: The KNN algorithm works based on the principle that similar data points 
 ![image](https://github.com/Sai-Likhith/K-Nearest-Neighbors/assets/102646751/a6f085f4-d8a4-4bcd-95b6-5c0299eb4fbd)
 
 
-KNN algorithm:
+# KNN algorithm:
 1.	Determine the number of neighbors (K) to consider, usually specified by the user.
 2.	Calculate the distance between the new data point and all other data points in the training set.
 3.	Select the K data points with the shortest distances (i.e., the K nearest neighbors).
